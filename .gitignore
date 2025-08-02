@@ -1,37 +1,31 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-*.egg
-*.log
-*.sqlite3
-*.db
-
-# Virtual environments
-.venv/
-env/
-venv/
-
-# VS Code
-.vscode/
-.history/
-
-# macOS & system
-.DS_Store
-Thumbs.db
-
-# PyInstaller
-*.spec
-dist/
-build/
-
-# Tests
-.coverage
-htmlcov/
-
-# Sonar
-.sonar/
-.sonarlint/
-
-# Tools
-*.bak
+# Python 
+__pycache__/ 
+*.py[cod] 
+*.egg 
+*.egg-info/ 
+.env 
+venv/ 
+.env.* 
+*.sqlite3 
+Режим вывода команд на экран (ECHO) включен.
+# VSCode 
+.vscode/ 
+Режим вывода команд на экран (ECHO) включен.
+# Windows 
+Thumbs.db 
+ehthumbs.db 
+Режим вывода команд на экран (ECHO) включен.
+# macOS 
+.DS_Store 
+Режим вывода команд на экран (ECHO) включен.
+# Poetry 
+.poetry 
+Режим вывода команд на экран (ECHO) включен.
+# PyInstaller 
+*.spec 
+dist/ 
+build/ 
+Режим вывода команд на экран (ECHO) включен.
+# Logs 
+*.log 
+logs/ 
