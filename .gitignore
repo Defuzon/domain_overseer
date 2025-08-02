@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+.history/
+
+# macOS & system
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Tests
+.coverage
+htmlcov/
+
+# Sonar
+.sonar/
+.sonarlint/
+
+# Tools
+*.bak
